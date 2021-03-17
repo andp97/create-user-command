@@ -1,6 +1,5 @@
 <?php
-
-namespace Rap2hpoutre\CreateUser;
+namespace Andp97\CreateUser;
 
 use \Illuminate\Console\Command as BaseCommand;
 
