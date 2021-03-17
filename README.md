@@ -9,7 +9,7 @@ Create a user with artisan command.
 ## Install
 Install via composer
 ```
-composer require rap2hpoutre/create-user-command
+composer require andp97/create-user-command
 ```
 Add the Create User command to `app/Console/Kernel.php` in protected `$commands` array
 ```php
